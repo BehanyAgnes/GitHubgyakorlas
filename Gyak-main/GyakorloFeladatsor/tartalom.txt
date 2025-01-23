@@ -1,0 +1,72 @@
+Repülés a mitológiában
+
+A repülés talán az egyik legrégibb vágya az emberiségnek. Az ember mindig is irigyen nézte a madarakat, mikor azok könnyedén szelték a hatalmas levegőeget szárnyaikkal.
+ Bizonyítják ezt az ősi mitológiák természetfölötti lényei: a táltosok, sárkányok, boszorkányok, madarak. 
+Csodálatos szerkezetek is felbukkannak, mint például a repülő szőnyeg, Daidalosz és Ikarosz szárnyai, hogy az ember is repülhessen a maga erejéből az égben.
+ A repülés minden korban a szabadság érzését vitte az emberek szívébe.
+
+A sztyeppi népek totemállata, a turulmadár, a magyar mitológia szereplője. Árpád népe az Emese álmáról szóló legendájában e madár leszármazottjának tartja magát.
+ A repülésről szóló legendát több vallás könyveiben megtaláljuk. A Bibliában Krisztus egy felhő hátán szállt a mennybe. Azt senki sem tudja, hogy ki,
+ mikor és mivel próbált meg először repülni, olyan régen volt. Mindig is élt olyan ember, aki hitt a repülés megvalósíthatóságában, és meg is próbálta, 
+de az akkori kor technikai fejlettsége a sikeres repülést nem tette lehetővé.
+
+A középkorban is izgatta az embereket a repülés gondolata, de úgy vélték, hogy csak természetfölötti képességekkel lehet repülni. 
+Szerintük csak az ördöggel cimboráló varázslók és boszorkányok tudnak repülni, ám ezért a sötét középkor inkvizíciója szerint halálbüntetés járt.
+
+
+Repülőgépek felhasználás szerint
+Az utasszállító repülőgépeket hatótávolság szerint kategóriákba sorolják.
+Kis hatótávolságú gépek 10–60 férőhellyel, 1000 kilométeren belüli fuvarozási feladatokat oldanak meg.
+Hajtóművük többnyire légcsavaros gázturbina vagy gázturbinás sugárhajtómű. 
+Sebességük általában 600 km/h alatt marad, felszálló tömegük 50 tonnáig terjed.
+Középhatótávolságú utasszállító gépek maximum 5000 km repülési távolságig.
+ Nagy hatótávolságú gépről 5000 km-es repülési távolság fölött beszélhetünk. 
+A közép és nagy hatótávolságú gépek szerkezete közel azonos. Sebességük csaknem 1000 km/h-ig terjed, repülési magasságuk meghaladhatja a 10 000 métert. 
+A nagy magasságban fellépő vákuum miatt utasterüket túlnyomásos kabinként alakítják ki. Hajtóműveik gázturbinás sugárhajtóművek.
+ Az óriásgépek felszálló tömege eléri a 400 tonnát, a férőhelyek száma pedig az 500-nál többet.
+
+
+  A teherszállító repülőgép az utasszállító repülőgépből fejlődött ki, általánosságban véve a gyors szállítást igénylő, nagy (harc)értékű áruk mozgatására használják. 
+Kezdetben, az 1920-as évek elejétől a polgári utasszállító gépekből átalakított gépeket gyakran mostohább körülmények között, 
+alacsonyabb ellátási szinten kiépített repülőterekről kellett üzemeltetni.
+
+Ezen gépek még főként az utasszállítást kiegészítő csomagszállítók voltak, később a 30-as évek elejétől, 
+a megfelelő típusok kifejlesztésével váltak igazán teheráru szállítókká. 
+A 20. század háborúiban, főleg a második világháború előtt és annak elején nagy számban alkalmaztak civil teherszállító repülőgépeket, 
+amik egyre nehezebben tudták ellátni a dinamikusan fejlődő harchelyzetek diktálta igényeket. Ezért a harctéri tapasztalatok alapján megfogalmazódtak
+ a katonai teherszállító repülőgépek legfontosabb paraméterei, a velük szemben támasztott követelmények. Sebességük a világháború miatt
+
+ rohamosan fejlődő motorok és hajtóművek következtében kétszeresére, háromszorosára,
+ teheremelő képességük a sokszorosára nőtt, mint elődeiké.
+
+
+Hajtómű
+Dugattyús motoros hajtómű: a hagyományos dugattyús motorok csak 
+légcsavar segítségével tudják megtermelni a repüléshez szükséges 
+vonó- és/vagy tolóerőt. Olcsó megoldás, de csak hangsebesség alatti repülést tesz lehetővé.
+
+Gázturbina:
+Légcsavaros gázturbina: Gázturbinás hajtómű közvetlenül forgatja a légcsavart. 
+Hangsebesség feletti repüléshez nem alkalmas. 
+A gázturbina kompresszora, turbinája és a légcsavart hajtó reduktor egy tengelyen 
+helyezkedik el.
+
+Szabadturbinás hajtómű, vagy más néven tengelyteljesítményt szolgáltató gázturbina:
+ A kompresszort és a légcsavart hajtó reduktort működtető turbinafokozatok
+ külön tengelyen helyezkednek el. Elsősorban helikopterek működtetésére alkalmazzák.
+Sugárhajtómű:
+ Lüktető sugárhajtómű: Egyszerű felépítésű, kis helyigényű sugárhajtómű, 
+melynek elve a tüzelőanyag impulzusszerű meggyújtása, 
+majd az égés során ez szolgáltat lüktető sugárhajtást 
+hasonlóan a dugattyús robbanómotorokhoz. 
+Főként pilóta nélküli fegyvereken (manőverező robotrepülőgépek) 
+és rádió távirányítású repülőgép-modelleken alkalmazzák.
+
+Egy korai De Havilland Goblin II gázturbinás sugárhajtómű. 
+Balra a centrifugálkompreszor, középen a csöves égésterek láthatók. 
+A kép jobb oldalán a fúvócső, előtte pedig a turbina helyezkedik el
+Gázturbinás sugárhajtómű. Tisztán a sugárhajtás elvét hasznosító hajtómű. 
+Hangsebesség alatti, de hangsebesség feletti repülésre is alkalmas. 
+A hajtómű a fúvócsőben nagy sebességre gyorsított égéstermékek reakcióerejét
+ (tolóerő) használja ki. A transzszonikus sebességtartomány 
+felső határáig biztosít tolóerőt.

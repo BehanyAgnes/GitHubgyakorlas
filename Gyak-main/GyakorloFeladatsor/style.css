@@ -1,0 +1,64 @@
+body {
+    background-image: url(kepek/hatterkep.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+#felhasznalas_kep {
+    width: 350px;
+    box-shadow: 8px 6px 5px 3px rgba(0, 0, 255, 0.5);
+}
+
+figure {
+    text-align: center;
+    margin: 0;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+section{
+    background-color: rgba(104, 95, 95, 0.5);
+    margin: 20px; 
+    padding: 10px;
+}
+
+.hajtomu {
+    width: 300px;
+    margin-left: 200px;
+    margin-top: 200px;
+}
+
+.hivatkozas {
+    text-decoration: none;
+    color: rgba(0, 0, 255, 0.5);
+}
+
+.table-striped{
+    color: black;
+    background-color: white;
+
+
+}
+
+caption {
+    caption-side: top;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+
+footer {
+    background-color: rgba(104, 95, 95, 0.5);
+    text-align: center;
+}
+
+p {
+    justify-content: end;
+}
+
+ul, li {
+    justify-content: end;
+}

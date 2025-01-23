@@ -1,0 +1,6 @@
+Típus	Utas kapacitás	Hatótáv (km)	Üzemanyag fogyasztás (l/óra)
+Boeing 737	160	3500	                        2600
+Airbus A320	180	3100	                        2400
+Boeing 787	242	14100	                        5600
+Airbus A350	315	14800	                        6100
+Embraer E195	120	2600	                    1800
